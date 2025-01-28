@@ -34,7 +34,6 @@ Contributions are welcome! Follow these steps:
 ## Metadata
 
 - Author: Davin Chiupka, Fanshawe OER Studio
-- License: MIT License
 - Date: January 28, 2025
 
 ## License
